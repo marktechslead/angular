@@ -1,0 +1,34 @@
+#mycss{
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+
+#outer{
+    border: 1px solid black;
+    padding: 50px;
+
+ }
+
+ .myfont{
+    font-size: 10px;
+    font-weight: 400;
+    color:cornflowerblue;
+    text-decoration: line-through;
+ }
+
+ .grid_style{
+    padding: 120px 80px 80px 150px;
+ }
+
+ .grid_img{
+    padding: 80px 80px 80px 150px;
+ }
+
+ .top_bar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid lightblue;
+}
